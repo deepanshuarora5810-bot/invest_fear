@@ -1517,7 +1517,7 @@ export default function App() {
           borderRadius: 100, marginBottom: 16, textTransform: "uppercase",
         }}>
           <span style={{ width: 6, height: 6, borderRadius: "50%", background: C.accent, animation: "pulse 1.4s ease infinite", display: "inline-block" }} />
-          InvestSafe · Hackathon 2025
+          InvestSafe
         </div>
         <h1 style={{ fontFamily: "'Syne', sans-serif", fontSize: "clamp(2rem,7vw,3.2rem)", fontWeight: 800, lineHeight: 1.1, letterSpacing: "-0.03em" }}>
           Invest<span style={{ color: C.accent }}>Safe</span> — Fear <span style={{ color: C.accent2 }}>Less</span>, Grow <span style={{ color: C.accent }}>More</span>
@@ -1650,7 +1650,7 @@ export default function App() {
           textAlign: "center" 
         }}>
           <div style={{ fontSize: 10, color: C.muted, letterSpacing: "0.2em", textTransform: "uppercase" }}>
-            © 2025 INVESTSAFE · BUILT FOR THE FUTURE OF INDIAN INVESTING · HACKATHON EDITION
+            © 2025 INVESTSAFE · BUILT FOR THE FUTURE OF INDIAN INVESTING
           </div>
         </div>
       </footer>
